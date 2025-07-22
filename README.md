@@ -10,7 +10,6 @@
 </p>
 ---
 ### 💡 About Me
-
 - 🔭 I’m currently working on **Full Stack projects with Django & React**
 - 🌱 I’m learning **modern JavaScript frameworks and REST API design**
 - 👯 I’m looking to collaborate on **Open Source Django & React apps**
@@ -30,7 +29,6 @@
 </p>
 ---
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=payerahmed&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <br>
