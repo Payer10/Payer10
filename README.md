@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate Backend Developer exploring Full Stack Development with Django & React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;   Backend+Developer+%7C+Django+%7C+React;Learning+Full+Stack+Development;Let's+build+something+great+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Backend+Developer+%7C+Django+%7C+React;Learning+Full+Stack+Development;Let's+build+something+great+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
