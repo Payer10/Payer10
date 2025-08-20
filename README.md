@@ -1,67 +1,123 @@
-<h1 align="center">Hi 👋, I'm Payer Ahmed</h1>
-<h3 align="center">🚀 A passionate Backend Developer exploring Full Stack Development with Django & React</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000… alt="Typing SVG" />
+</p>
+ 
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #007ACC; margin-bottom: 12 px; font-weight: 700;">
 
+  🎨 GitHub Contribution Highlights
+</h2>
+ 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Backend+Developer+%7C+Django+%7C+React;Learning+Full+Stack+Development;Let's+build+something+great+🚀" alt="Typing SVG" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=payer10&theme=react&hid… alt="Colorful Contribution Graph" />
 </p>
+ 
+---
+ 
+<h2 align="center" style="
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=payerahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
----
-### 💡 About Me
-- 🔭 I’m currently working on **Full Stack projects with Django & React**
-- 🌱 I’m learning **modern JavaScript frameworks and REST API design**
-- 👯 I’m looking to collaborate on **Open Source Django & React apps**
-- 💬 Ask me about **Python, Django, REST APIs, and backend development**
-- 📫 How to reach me: **payerahmed@example.com**
-- ⚡ Fun fact: **I love solving complex problems and turning ideas into reality**
----
-### 🧰 Languages and Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
----
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payerahmed&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payerahmed&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payerahmed&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
----
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payerahmed&theme=onedark&row=1&no-bg=true" alt="GitHub Trophies" />
-</p>
----
-### 🌟 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=payerahmed&theme=github-compact" alt="Contribution Graph" />
-</p>
----
-### 📫 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/payerahmed" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/payerahmed" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:payerahmed@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
----
+  font-weight: 900;
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+  font-size: 2.5rem;
+
+  background: linear-gradient(45deg, #ff6ec4, #7873f5, #4ade80);
+
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+
+  text-shadow:
+
+    1px 1px 2px rgba(0,0,0,0.3),
+
+    0 0 10px rgba(255,110,196,0.7),
+
+    0 0 20px rgba(120,115,245,0.7);
+
+">
+
+  🛠️ Skills & Technologies
+</h2>
+ 
+### 🛠️ Skills & Technologies
+ 
+<table align="center">
+<tr>
+<td><strong>🖥️ Languages</strong></td>
+<td>C, C++, Python, JavaScript,Go</td>
+</tr>
+<tr>
+<td><strong>🗄️ Databases</strong></td>
+<td>MySQL, PostgreSQL, SQLite, MongoDB</td>
+</tr>
+<tr>
+<td><strong>⚙️ Frameworks & Libraries</strong></td>
+<td>Django, Flask, Django REST Framework (DRF), Tailwind CSS, Bootstrap</td>
+</tr>
+<tr>
+<td><strong>🛠️ Tools</strong></td>
+<td>Docker, Git, GitHub, Notion, Jira, Postman</td>
+</tr>
+<tr>
+<td><strong>☁️ Cloud Platforms</strong></td>
+<td>DigitalOcean, AWS, Cloudinary</td>
+</tr>
+</table>
+ 
+ 
+## 📊 My GitHub Stats & Most Used Languages
+ 
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=payer10&show_icons=true&theme=toky… width="350" height="200" />
+</td>
+<td style="width:30px;"></td> <!-- spacer -->
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payer10&layout=donut&th… width="350" height="200" />
+</td>
+</tr>
+</table>
+ 
+---
+ 
+<h3 align="center">🎯 Let’s Connect!</h3>
+ 
+ 
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/afzalkhan101/" target="_blank" rel="noopener noreferrer">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=wh… />
+</a>
+</td>
+<td align="center">
+<a href="mailto:afzalkhan101.contact@gmail.com" target="_blank" rel="noopener noreferrer">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.facebook.com/afzalkhan101/" target="_blank" rel="noopener noreferrer">
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=wh… />
+</a>
+</td>
+</tr>
+</table>
+ 
+---
+ 
+<div align="center" style="max-width: 700px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+ 
+  <p style="font-size: 1.4rem; font-style: italic; color: #4ADE80; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); margin-bottom: 1.5rem;">
+
+    Keep solving. Keep learning. Keep building.
 </p>
+ 
+  <p style="font-size: 1.3rem; font-style: italic; color: #FBBF24; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); line-height: 1.5;">
+
+    জীবনে যত বড় হও, পা দুটি মাটিতে রাখো। মাটির তৈরি, মাটিতেই আত্মসমর্পণ। সময়টাও খুবই কম।
+</p>
+</div>
+ 
+ 
