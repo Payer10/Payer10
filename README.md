@@ -30,11 +30,11 @@
 <table align="center">
   <tr>
     <td><strong>🖥️ Languages</strong></td>
-    <td>C, C++, Python, JavaScript, Go</td>
+    <td>Python, JavaScript</td>
   </tr>
   <tr>
     <td><strong>🗄️ Databases</strong></td>
-    <td>MySQL, PostgreSQL, SQLite, MongoDB</td>
+    <td>MySQL, PostgreSQL, SQLite</td>
   </tr>
   <tr>
     <td><strong>⚙️ Frameworks & Libraries</strong></td>
@@ -42,11 +42,11 @@
   </tr>
   <tr>
     <td><strong>🛠️ Tools</strong></td>
-    <td>Docker, Git, GitHub, Notion, Jira, Postman</td>
+    <td>Git, GitHub, Postman</td>
   </tr>
   <tr>
     <td><strong>☁️ Cloud Platforms</strong></td>
-    <td>DigitalOcean, AWS, Cloudinary</td>
+    <td>...</td>
   </tr>
 </table>
 
@@ -71,13 +71,13 @@
 <h3 align="center">🎯 Let’s Connect!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/afzalkhan101/" target="_blank">
+  <a href="https://www.linkedin.com/in/payer-ahmed-62832b37b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:afzalkhan101.contact@gmail.com" target="_blank">
+  <a href="https://github.com/Payer10" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/afzalkhan101/" target="_blank">
+  <a href="https://www.facebook.com/payer.ahmed.71271466" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
