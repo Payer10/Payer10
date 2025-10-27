@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&width=435&lines=Welcome+to+my+GitHub!;Back+end+%7C+Developer+(Django);Keep+Solving+Keep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&width=435&lines=Welcome+to+my+GitHub!;Back-end+%7C+Developer+(Django);Keep+Solving+Keep+Learning" alt="Typing SVG" />
 </p>
 
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #007ACC; font-weight: 700; margin-bottom: 12px;">
