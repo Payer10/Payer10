@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td><strong>☁️ Cloud Platforms</strong></td>
-    <td>...</td>
+    <td>Hetzner,Digital Ocean</td>
   </tr>
 </table>
 
